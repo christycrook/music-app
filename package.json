@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/christycrook/music-app/issues"
   },
-  "homepage": "https://github.com/christycrook/music-app#readme"
+  "homepage": "https://github.com/christycrook/music-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
